@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Dev Portfolio",
+  "description": "A high-end, animated developer portfolio featuring an AI-powered interactive chat assistant using Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
